@@ -1,0 +1,38 @@
+.ota{
+    background-color: rgb(37, 3, 69);
+    text-align: center;
+}
+.box{
+    color: yellow;
+}
+.box1{
+    color: white;
+}
+.box2{
+    color: green;
+}
+.box3{
+    border: 3px solid yellow;
+}
+.ota2{
+    width: 1500px;
+    border: 1px solid yellow;
+    border-collapse: collapse;
+    text-align: center;
+    color: white;
+    margin: 0 auto;
+}
+tr , th , td{
+    border: 1px solid yellow;
+} 
+.box5{
+    color: white;
+}
+.box4{
+    width: 1500px;
+}
+.box6{
+    background-color: yellow;
+    border-radius: 20px;
+    width: 250px;
+}
